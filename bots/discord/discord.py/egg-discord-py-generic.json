@@ -108,7 +108,7 @@
             "name": "Requirements file",
             "description": "if there are other requirements files to choose from.",
             "env_variable": "REQUIREMENTS_FILE",
-            "default_value": "requirements.txt",
+            "default_value": "req.txt",
             "user_viewable": true,
             "user_editable": true,
             "rules": "required|string"
